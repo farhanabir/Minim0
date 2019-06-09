@@ -1,0 +1,3 @@
+black: #000000;
+ash: #626262;
+golden: #b4ad9e;
